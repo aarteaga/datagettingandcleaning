@@ -11,3 +11,6 @@ The run_analisys.R script must be run from the main folder of decompressed data 
 5.- It will create a secondt tidy data set with the average of each variable for each activity and each subject.
 
 The final dataset will be called summarydata.
+
+This repository also contains a file as an example output and
+A codebook.md file extracted from the authors of the data explaining the variables in the original data.
